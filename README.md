@@ -1,4 +1,6 @@
 # talks
+
+[![Join the chat at https://gitter.im/datproject/talks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/datproject/talks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 dat talks!
 
 ### Lightning talks
